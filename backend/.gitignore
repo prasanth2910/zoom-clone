@@ -1,0 +1,6 @@
+zoom_clone.db
+__pycache__/
+*.pyc
+.env
+venv/
+backend.log
